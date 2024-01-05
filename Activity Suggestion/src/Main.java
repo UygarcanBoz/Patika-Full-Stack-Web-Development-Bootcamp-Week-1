@@ -1,3 +1,7 @@
+/** This project suggest an activity to the user based on temperature.
+ */
+
+
 import java.util.Scanner;
 
 public class Main {
